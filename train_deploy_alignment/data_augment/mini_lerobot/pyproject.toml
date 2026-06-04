@@ -22,4 +22,5 @@ dependencies = [
     "mcap",
     "mcap-ros1-support",
     "mcap-ros2-support",
+    "opencv-python",
 ]
